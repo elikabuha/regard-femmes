@@ -1044,3 +1044,23 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.social-link a {
+  font-size: 18px;
+  display: inline-block;
+  background: #2b2b2b;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 4px;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+.footer-link i {
+  padding-right: 2px;
+  color: white;
+  font-size: 18px;
+  line-height: 1;
+}
